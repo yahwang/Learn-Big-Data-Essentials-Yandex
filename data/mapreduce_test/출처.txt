@@ -1,7 +1,0 @@
-데이터 출처
-
-Deploying a Hadoop Cluster - Lesson 5
-
-URL : https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000
-
-
