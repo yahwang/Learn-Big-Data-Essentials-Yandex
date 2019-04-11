@@ -1,0 +1,9 @@
+데이터 출처
+
+Deploying a Hadoop Cluster - Lesson 5
+
+URL : https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000
+
+access_log 원본 (504MB) : https://s3-us-west-2.amazonaws.com/gae-supplemental-media/access-log/access_log
+
+
